@@ -13,7 +13,7 @@ Geração de PDF: FPDF (biblioteca PHP)
 Frontend: HTML, CSS (Tailwind CSS via CDN), JavaScript (Vanilla JS para interatividade)
 
 
-✨ Funcionalidades
+# ✨ Funcionalidades
 A aplicação possui as seguintes abas e funcionalidades:
 
 Clientes:
